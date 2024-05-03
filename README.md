@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindos ao meu perfil!
+- Meu nome é Isabella Luqueta.
+- Estou entrando na Alura
+- Estou desenvolvendo o JavaScript
+- Estou aqui por estudos escolares
 
-<!--
-**isabellaluqueta/isabellaluqueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Você pode entrar em contato comigo 💙
 
-Here are some ideas to get you started:
+  @Isa_moraes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![](<img src="https://media1.tenor.com/m/6xwjsmMIAIoAAAAd/happy-happy-dog.gif" alt="Happy Happy Dog GIF - Happy Happy Dog Dog GIFs"/>![image](https://github.com/isabellaluqueta/isabellaluqueta/assets/168853697/592731f4-a7d4-4490-9860-eeb66da414a9)
+
+
